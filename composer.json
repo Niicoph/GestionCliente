@@ -1,0 +1,16 @@
+{
+    "name": "niicop/gestion-cliente",
+    "description": "Web para gestionar clientes de un gimnasio",
+    "autoload": {
+        "psr-4": {
+            "Niicop\\GestionCliente\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Niicoph",
+            "email": "niicoph@gmail.com"
+        }
+    ],
+    "require": {}
+}
